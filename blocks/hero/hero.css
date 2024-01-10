@@ -20,6 +20,7 @@ main .hero .hero-body {
   position: relative;
   z-index: 1;
 }
+
 main .hero picture {
   position: absolute;
   top: 0;
